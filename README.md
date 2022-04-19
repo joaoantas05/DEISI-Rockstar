@@ -9,6 +9,7 @@ O programa terá de ler dados dessa base de dados, que será fornecida a partir 
 
 Tendo em conta que um dos temas tratados em AED é a questão da eficiência das estruturas de dados e dos algoritmos, pretende-se que o programa desenvolvido seja não só funcionalmente correto, mas também que seja o mais rápido possível.
 
+
 # Objetivos
 
 Implementação da Leitura dos Ficheiros que são o input do programa;
