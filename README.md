@@ -1,7 +1,8 @@
 # DEISI-Rockstar
 
-![](aed_rockstar.png?raw=true "SOVAC")
 <h1 align="center">Projeto Elaborado na UC de Algorítmia e Estruturas de Dados</h1>
+
+![](aed_rockstar.png?raw=true "SOVAC")
 
 # Introdução
 
